@@ -21,6 +21,19 @@
       "homepage": "https://solidstate.cc",
       "license": "MIT",
       "category": "writing"
+    },
+    {
+      "name": "spacex-daily-briefing",
+      "source": "./plugins/spacex-daily-briefing",
+      "description": "Daily investor-grade SpaceX / SPCX briefing: live X + web search, price-moving lens, tiered output. Informational only, not financial advice.",
+      "version": "1.1.0",
+      "author": {
+        "name": "Solid State",
+        "url": "https://solidstate.cc"
+      },
+      "homepage": "https://solidstate.cc",
+      "license": "MIT",
+      "category": "research"
     }
   ]
 }
