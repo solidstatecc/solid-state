@@ -1,0 +1,9 @@
+{
+  "name": "solid-state",
+  "version": "0.1.0",
+  "description": "Voice-enforcement skills for builders who ship with AI - direct, contrast-driven, action-biased. No buzzwords, no hedging, no fluff.",
+  "author": { "name": "Solid State", "url": "https://solidstate.cc" },
+  "homepage": "https://solidstate.cc",
+  "license": "MIT",
+  "keywords": ["writing", "brand-voice", "marketing", "content"]
+}
