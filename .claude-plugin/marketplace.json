@@ -1,6 +1,9 @@
 {
   "name": "solid-state",
-  "owner": { "name": "Solid State", "url": "https://solidstate.cc" },
+  "owner": {
+    "name": "Solid State",
+    "url": "https://solidstate.cc"
+  },
   "metadata": {
     "description": "Curated agent skills. Honest provenance. No buzzwords.",
     "version": "0.1.0"
@@ -8,10 +11,13 @@
   "plugins": [
     {
       "name": "solid-state",
-      "source": ".",
+      "source": "./plugins/solid-state",
       "description": "Voice-enforcement skills for builders who ship with AI: voice-check, anti-buzzword, contrast-pair, reframe, compress.",
       "version": "0.1.0",
-      "author": { "name": "Solid State", "url": "https://solidstate.cc" },
+      "author": {
+        "name": "Solid State",
+        "url": "https://solidstate.cc"
+      },
       "homepage": "https://solidstate.cc",
       "license": "MIT",
       "category": "writing"
